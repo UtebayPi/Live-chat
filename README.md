@@ -1,3 +1,2 @@
 # Live-chat
-Чат работающий в реальном времени, сделанный с помощью Laravel, JavaScript и Pusher API.  
-
+Real-time chat website, made with PHP, Laravel, JavaScript and Pusher API.
